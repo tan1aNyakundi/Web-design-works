@@ -1,0 +1,11 @@
+body{background-color:  pink;font-family: 'Courier New', Courier, monospace;color;}
+h1{background-color: lavenderblush;font-family:'Courier New', Courier, monospace;color:black;border-bottom: 2px solid;padding: 5px;}
+h2{background-color: lavenderblush;font-family: 'Courier New', Courier, monospace;color:black; border-bottom: 2px solid;padding-left: 5px;}
+h3{background-color: lavenderblush;font-family: 'Courier New', Courier, monospace;color:black;}
+h4{background-color: lavenderblush;font-family: 'Courier New', Courier, monospace;color:black;}
+h5{background-color: lavenderblush;font-family:'Courier New', Courier, monospace;color:black;}
+h6{background-color: lavenderblush;font-family: 'Courier New', Courier, monospace;color:black;}
+P{font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;}
+.new {color:blue;font-style: italic;}
+#new {color: indigo;font-size: large;font-style: italic;}
+.companyname{font-weight: bold;font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;font-size: large;}
